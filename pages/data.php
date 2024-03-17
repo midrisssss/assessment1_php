@@ -14,4 +14,6 @@ $data = array(
         array("id" => 10, "Nama Barang" => "Baterai", "Harga" => 16000),
     )
 );
+
+$history = [];
 ?>
